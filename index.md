@@ -1,23 +1,25 @@
-# My GitHub Pages Site
+# Ricky's GitHub Pages Site
 
 Welcome to my GitHub Pages site!
 
 ## About Me
 
-I'm a student/developer/educator who loves:
+I'm a student who loves:
 
 - Programming
-- Learning new technologies
-- Sharing knowledge
+- Learning
+- Music
+- Playing Instruments
+
 
 ## Projects
 
 Here are some of my projects:
 
-1. [Project One](#) - A brief description
+1. [Project One](https://github.com/R-Brunson/CSC-134/blob/main/Mini_Project/M7HW1_Brunson.cpp) - A simulated Pokemon fight that covers the basics of attacking, swapping, hp bars
 2. [Project Two](#) - Another brief description
 
 ## Contact
 
-You can reach me at [your-email@example.com](mailto:your-email@example.com)
+You can reach me at [brunsonr5554@student.faytechcc.edu](mailto:brunsonr5554@student.faytechcc.edu)
 e
