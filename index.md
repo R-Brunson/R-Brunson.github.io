@@ -1,4 +1,4 @@
-# Ricky's GitHub Pages Site
+# My GitHub Pages Site
 
 Welcome to my GitHub Pages site!
 
